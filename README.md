@@ -72,14 +72,11 @@ For direct support or other inquiries, you can also contact us at [info_cactus@d
 
 **Cactus** has been developed through the collaboration between the [**Department of Chemistry of the University of Turin**](https://www.chimica.unito.it/) and [**Databloom srl**](https://www.databloom.it/), combining academic research in chemometrics and analytical chemistry with software development and applied data science.
 
+<br>
+
 <p align="center">
   <a href="https://www.chimica.unito.it/"><img src="assets/logo_unito.svg" alt="Department of Chemistry, University of Turin" width="220"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.databloom.it/"><img src="assets/DataBloom_logo.png" alt="Databloom" width="350"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.chimica.unito.it/">Department of Chemistry, University of Turin</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.databloom.it/">Databloom srl</a>
-</p>
