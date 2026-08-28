@@ -60,7 +60,7 @@ For custom development or private inquiries, contact us at [info_cactus@databloo
 
 ## License
 
-Cactus is distributed under the **GPL-3.0** license.
+Cactus is distributed under the [**GPL-3.0**](LICENSE) license.
 
 ## Support
 
