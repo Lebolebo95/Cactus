@@ -1,6 +1,6 @@
 # Cactus - Chemometrics and Analytical Chemistry Tools
 
-<img src="assets/Cactus_long.png" alt="Cactus" width="600">
+<img src="assets/Cactus_long.png" alt="Cactus" width="800">
 
 **Cactus** is a cross-platform desktop application for chemometrics and tabular data analysis, designed primarily for teaching and for researchers who want to apply statistical and multivariate methods without writing code.
 
