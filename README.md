@@ -40,9 +40,9 @@ Get the latest version from the [Releases](https://github.com/Lebolebo95/Cactus/
 
 | Platform           | How to install                                                                                                                                                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Windows**        | [Download `.exe`](LINK_WINDOWS) (not ready) and run the installer, then follow the setup wizard                                                                                                |
-| **macOS**          | [Download `.dmg`](LINK_MACOS) (not ready), drag Cactus into Applications. On first launch: right-click the app → **Open** (needed because the app isn't yet signed with an Apple Developer ID) |
-| **Linux (Ubuntu)** | [Download `.deb`](LINK_LINUX) (not ready) and install from a terminal with `sudo apt install ./CactusSetup.deb` (rather than double-clicking, so dependencies are resolved automatically)      |
+| **Windows**        | [Download `.exe`](https://github.com/Lebolebo95/Cactus/releases/latest/download/CactusSetup.exe) (not ready) and run the installer, then follow the setup wizard                                                                                                |
+| **macOS**          | [Download `.dmg`](https://github.com/Lebolebo95/Cactus/releases/latest/download/CactusSetup.dmg) (not ready), drag Cactus into Applications. On first launch: right-click the app → **Open** (needed because the app isn't yet signed with an Apple Developer ID) |
+| **Linux (Ubuntu)** | [Download `.deb`]([LINK_LINUX](https://github.com/Lebolebo95/Cactus/releases/latest/download/CactusSetup.deb)) (not ready) and install from a terminal with `sudo apt install ./CactusSetup.deb` (rather than double-clicking, so dependencies are resolved automatically)      |
 
 ### System requirements
 
