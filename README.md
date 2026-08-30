@@ -64,9 +64,12 @@ Cactus is distributed under the [**GPL-3.0**](LICENSE) license.
 
 ## Support
 
-For **bug reports**, **feature requests**, or **general improvements**, please open an [Issue](https://github.com/Lebolebo95/Cactus/issues) on this repository so they can be discussed and potentially integrated into future releases.
+For **bug reports**, **feature requests**, or **general improvements**, please open an [Issue](https://github.com/Lebolebo95/Cactus/issues) on this repository. This allows suggestions and reported problems to be discussed, tracked, and potentially integrated into future releases.
 
-For direct support or other inquiries, you can also contact us at [info_cactus@databloom.it](mailto:info_cactus@databloom.it).
+If you prefer, you can also submit feedback, report a problem, or suggest an improvement through our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfBnMWuFYRkiEdSFJSuWasNoXBfgMSjN2okS0CVmOpcxTsWww/viewform).
+
+For **direct support** or other inquiries, you can contact us at [info_cactus@databloom.it](mailto:info_cactus@databloom.it).
+
 
 ## Developed in collaboration with
 
@@ -75,8 +78,9 @@ For direct support or other inquiries, you can also contact us at [info_cactus@d
 <br>
 
 <p align="center">
-  <a href="https://www.chimica.unito.it/"><img src="assets/logo_unito.svg" alt="Department of Chemistry, University of Turin" width="220"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.databloom.it/"><img src="assets/DataBloom_logo.png" alt="Databloom" width="350"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.unito.it/"><img src="assets/logo_unito.svg" alt="Department of Chemistry, University of Turin" width="220"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.chimica.unito.it/"><img src="assets/dipdec.png" alt="Dipartimento di Eccelenza" width="220"></a>
 </p>
-
