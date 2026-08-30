@@ -1,6 +1,6 @@
 # Cactus - Chemometrics and Analytical Chemistry Tools
 
-<img src="assets/Cactus_long.png" alt="Cactus" width="600">
+<img src="assets/Cactus_long.png" alt="Cactus" width="800">
 
 **Cactus** is a cross-platform desktop application for chemometrics and tabular data analysis, designed primarily for teaching and for researchers who want to apply statistical and multivariate methods without writing code.
 
@@ -40,9 +40,9 @@ Get the latest version from the [Releases](https://github.com/Lebolebo95/Cactus/
 
 | Platform           | How to install                                                                                                                                                                     |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Windows**        | [Download `.exe`](LINK_WINDOWS) (not ready) and run the installer, then follow the setup wizard                                                                                                |
-| **macOS**          | [Download `.dmg`](LINK_MACOS) (not ready), drag Cactus into Applications. On first launch: right-click the app → **Open** (needed because the app isn't yet signed with an Apple Developer ID) |
-| **Linux (Ubuntu)** | [Download `.deb`](LINK_LINUX) (not ready) and install from a terminal with `sudo apt install ./CactusSetup.deb` (rather than double-clicking, so dependencies are resolved automatically)      |
+| **Windows**        | [Download `.exe`](https://github.com/Lebolebo95/Cactus/releases/latest/download/CactusSetup.exe) and run the installer, then follow the setup wizard                                                                                                |
+| **macOS**          | [Download `.dmg`](https://github.com/Lebolebo95/Cactus/releases/latest/download/CactusSetup.dmg), drag Cactus into Applications. On first launch: right-click the app → **Open** (needed because the app isn't yet signed with an Apple Developer ID) |
+| **Linux (Ubuntu)** | [Download `.deb`](https://github.com/Lebolebo95/Cactus/releases/latest/download/CactusSetup.deb) and install from a terminal with `sudo apt install ./CactusSetup.deb` (rather than double-clicking, so dependencies are resolved automatically)      |
 
 ### System requirements
 
@@ -60,7 +60,7 @@ For custom development or private inquiries, contact us at [info_cactus@databloo
 
 ## License
 
-Cactus is distributed under the **GPL-3.0** license.
+Cactus is distributed under the [**GPL-3.0**](LICENSE) license.
 
 ## Support
 
@@ -72,18 +72,11 @@ For direct support or other inquiries, you can also contact us at [info_cactus@d
 
 **Cactus** has been developed through the collaboration between the [**Department of Chemistry of the University of Turin**](https://www.chimica.unito.it/) and [**Databloom srl**](https://www.databloom.it/), combining academic research in chemometrics and analytical chemistry with software development and applied data science.
 
-<p align="center">
-  <a href="https://www.chimica.unito.it/">
-    <img src="assets/logo_unito.svg" alt="Department of Chemistry, University of Turin" width="220">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.databloom.it/">
-    <img src="assets/DataBloom_logo.png" alt="Databloom" width="350">
-  </a>
-</p>
+<br>
 
 <p align="center">
-  <a href="https://www.chimica.unito.it/">Department of Chemistry, University of Turin</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.databloom.it/">Databloom srl</a>
+  <a href="https://www.chimica.unito.it/"><img src="assets/logo_unito.svg" alt="Department of Chemistry, University of Turin" width="220"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.databloom.it/"><img src="assets/DataBloom_logo.png" alt="Databloom" width="350"></a>
 </p>
+
