@@ -26,7 +26,8 @@ Cactus runs locally on **Windows**, **macOS**, and **Linux**, so datasets are pr
 
 ## Documentation
 
-A full user guide is available: [User Guide (PDF)](https://raw.githubusercontent.com/Lebolebo95/Cactus/main/assets/user_guide_CACTUS.pdf).
+The full user guide can be found in the [`assets`](assets/) folder or downloaded directly as a [PDF](https://raw.githubusercontent.com/Lebolebo95/Cactus/main/assets/user_guide_CACTUS.pdf).
+
 
 ## How to cite
 
