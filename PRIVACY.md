@@ -17,7 +17,7 @@ The data controller responsible for your personal data is:
 
 ```
 Company legal name:    Databloom srl
-Registered office:     Via Pietro Giuria, 5, 10125 Torino
+Registered office:     Via Chiesa della Salute, 113 - 10147 Torino
 VAT number:            12514140016
 Privacy contact email: info_cactus@databloom.it
 ```
@@ -170,5 +170,5 @@ info_cactus@databloom.it
 ```
 
 Databloom srl
-Via Pietro Giuria, 5, 10125 Torino
+Via Chiesa della Salute, 113 - 10147 Torino
 
