@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.20
+
+⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu): please download and install this version from https://www.databloom.it/cactus.html - the in-app update does not include the new update window.
+
+🌵 Fixed
+- The update window is now larger and resizable, so release notes are easy to read 🌵
+
+Thanks for using Cactus! 🌵🌵🌵
+
 ## 0.1.19
 
 ⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu) with a version older than 0.1.19: please download and install the app again from https://www.databloom.it/cactus.html - the in-app update does not include the faster startup and the new installer fixes.
