@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.21
+
+⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu) with an installer version older than 0.1.21: please download and install the app again from https://www.databloom.it/cactus.html - you can check your installer version in the new Help & Support page.
+
+🌵 New
+- New Help & Support page: user guide, bug reports, feedback form, app and installer versions, and a button to download the log file to attach to your reports
+- Loading animations now show a growing cactus 🌵
+
+🌵 Fixed
+- Classification no longer crashes when the response column contains only one class: a message explains what to do
+
+Thanks for using Cactus! 🌵🌵🌵
+
 ## 0.1.20
 
 ⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu): please download and install this version from https://www.databloom.it/cactus.html - the in-app update does not include the new update window.
