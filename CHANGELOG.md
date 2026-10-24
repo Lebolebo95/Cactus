@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.22
+⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu) with an installer version older than 0.1.21: please download and install the app again from https://www.databloom.it/cactus.html - you can check your installer version in the new Help & Support page.
+
+🌵 New
+- Test set results: the new Prediction tab lists every test sample with its predicted class, correct ones in green and wrong ones in red, with Excel export 🌵
+- QDA test results now have the same tabs as the other models: metrics, confusion matrix, predictions and ROC curves
+- PLS-DA: regression coefficients are now shown in the Test tab too, and the coefficient plot shows the selected class in its title
+- PLS-DA: option to show or hide the values on the VIP bars in the Test tab
+- Excel export for the test set metrics
+
+🌵 Fixed
+- PLS-DA, QDA and KNN no longer fail when the test set contains classes that are not in the training set
+- Excel export now includes all rows of the table, not only the visible page
+
+Thanks for using Cactus! 🌵🌵🌵
+
 ## 0.1.21
 
 ⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu) with an installer version older than 0.1.21: please download and install the app again from https://www.databloom.it/cactus.html - you can check your installer version in the new Help & Support page.
