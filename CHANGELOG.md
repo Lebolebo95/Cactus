@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.23
+⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu) with an installer version older than 0.1.21: please download and install the app again from https://www.databloom.it/cactus.html - you can check your installer version in the Help & Support page.
+
+🌵 New
+- ROC curves in cross-validation for all classification models 🌵
+- PLS-DA: ROC curves in the Test tab too, also with the Max, Centroids and Mahalanobis rules (computed on the predicted Y values)
+- LDA: the test summary shows how many principal components were used when PCA is applied before LDA
+- Model titles are now written in full (e.g. Linear Discriminant Analysis)
+
+🌵 Fixed
+- ROC curves now work with two classes and when the test set does not contain every class, and each class shows its own AUC
+- Venetian blinds and Contiguous blocks cross-validation no longer crash the app when some folds miss a class: a message suggests a different CV method
+- LDA axes are now named as canonical variates (CV1, CV2, ...)
+- Class probability plot: train and test symbols were swapped in QDA and PLS-DA
+- The "Show misclassified samples" title in the plot settings is now readable in the light theme
+- The split visualization box can now be maximized
+
+Thanks for using Cactus! 🌵🌵🌵
+
 ## 0.1.22
 ⚠️ IMPORTANT for all users (Windows, macOS and Linux/Ubuntu) with an installer version older than 0.1.21: please download and install the app again from https://www.databloom.it/cactus.html - you can check your installer version in the new Help & Support page.
 
